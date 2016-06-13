@@ -1,0 +1,7 @@
+5
+1 John Jonhson 1 23
+2 Marta Martenson 0 27
+3 Michael Michaelson 1 21
+4 Maria Marienson 0 29
+5 Nick Nickelson 1 20
+
